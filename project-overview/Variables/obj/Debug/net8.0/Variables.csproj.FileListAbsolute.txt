@@ -1,0 +1,15 @@
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\bin\Debug\net8.0\Variables.exe
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\bin\Debug\net8.0\Variables.deps.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\bin\Debug\net8.0\Variables.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\bin\Debug\net8.0\Variables.pdb
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\obj\Debug\net8.0\Variables.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\obj\Debug\net8.0\refint\Variables.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\obj\Debug\net8.0\Variables.pdb
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Variables\obj\Debug\net8.0\ref\Variables.dll
