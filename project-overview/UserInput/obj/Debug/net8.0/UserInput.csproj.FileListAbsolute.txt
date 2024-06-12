@@ -1,0 +1,15 @@
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\bin\Debug\net8.0\UserInput.exe
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\bin\Debug\net8.0\UserInput.deps.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\bin\Debug\net8.0\UserInput.runtimeconfig.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\bin\Debug\net8.0\UserInput.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\bin\Debug\net8.0\UserInput.pdb
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\obj\Debug\net8.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\obj\Debug\net8.0\UserInput.AssemblyInfoInputs.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\obj\Debug\net8.0\UserInput.AssemblyInfo.cs
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\obj\Debug\net8.0\UserInput.csproj.CoreCompileInputs.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\obj\Debug\net8.0\UserInput.sourcelink.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\obj\Debug\net8.0\UserInput.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\obj\Debug\net8.0\refint\UserInput.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\obj\Debug\net8.0\UserInput.pdb
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\obj\Debug\net8.0\UserInput.genruntimeconfig.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\UserInput\obj\Debug\net8.0\ref\UserInput.dll

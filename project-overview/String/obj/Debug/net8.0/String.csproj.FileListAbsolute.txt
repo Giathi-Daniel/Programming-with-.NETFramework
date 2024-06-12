@@ -1,0 +1,15 @@
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\bin\Debug\net8.0\String.exe
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\bin\Debug\net8.0\String.deps.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\bin\Debug\net8.0\String.runtimeconfig.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\bin\Debug\net8.0\String.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\bin\Debug\net8.0\String.pdb
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\obj\Debug\net8.0\String.GeneratedMSBuildEditorConfig.editorconfig
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\obj\Debug\net8.0\String.AssemblyInfoInputs.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\obj\Debug\net8.0\String.AssemblyInfo.cs
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\obj\Debug\net8.0\String.csproj.CoreCompileInputs.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\obj\Debug\net8.0\String.sourcelink.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\obj\Debug\net8.0\String.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\obj\Debug\net8.0\refint\String.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\obj\Debug\net8.0\String.pdb
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\obj\Debug\net8.0\String.genruntimeconfig.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\String\obj\Debug\net8.0\ref\String.dll
