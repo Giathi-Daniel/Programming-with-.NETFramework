@@ -1,0 +1,17 @@
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\bin\Debug\net8.0-windows\02 - Windows Form Calculator.exe
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\bin\Debug\net8.0-windows\02 - Windows Form Calculator.deps.json
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\bin\Debug\net8.0-windows\02 - Windows Form Calculator.runtimeconfig.json
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\bin\Debug\net8.0-windows\02 - Windows Form Calculator.dll
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\bin\Debug\net8.0-windows\02 - Windows Form Calculator.pdb
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\_02___Windows_Form_Calculator.Form1.resources
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\02 - Windows Form Calculator.csproj.GenerateResource.cache
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\02 - Windows Form Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\02 - Windows Form Calculator.AssemblyInfoInputs.cache
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\02 - Windows Form Calculator.AssemblyInfo.cs
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\02 - Windows Form Calculator.csproj.CoreCompileInputs.cache
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\02 - Windows Form Calculator.sourcelink.json
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\02 - Windows Form Calculator.dll
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\refint\02 - Windows Form Calculator.dll
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\02 - Windows Form Calculator.pdb
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\02 - Windows Form Calculator.genruntimeconfig.cache
+E:\hp\Revision\.NET FRAMEWORK\Beginner-Projects\02 - Windows Form Calculator\obj\Debug\net8.0-windows\ref\02 - Windows Form Calculator.dll
