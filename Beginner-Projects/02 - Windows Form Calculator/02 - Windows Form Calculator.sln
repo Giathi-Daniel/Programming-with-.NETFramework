@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {BA065976-66B3-4E54-87CA-0E9915E954CC}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - Windows Form Calculator", "02 - Windows Form Calculator.csproj", "{19C06D53-B17E-4309-847B-D75DE216ECFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C06D53-B17E-4309-847B-D75DE216ECFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C06D53-B17E-4309-847B-D75DE216ECFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C06D53-B17E-4309-847B-D75DE216ECFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C06D53-B17E-4309-847B-D75DE216ECFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA065976-66B3-4E54-87CA-0E9915E954CC}
+	EndGlobalSection
+EndGlobal
+>>>>>>> db2d571d3c6bd69d202391cc4bfcec0b1e9bfd8b

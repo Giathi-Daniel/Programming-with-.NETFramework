@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "zIY0UQ3i9pY=",
@@ -5,4 +6,13 @@
   "projectFilePath": "E:\\hp\\Revision\\.NET FRAMEWORK\\Beginner-Projects\\02 - Windows Form Calculator\\02 - Windows Form Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "zIY0UQ3i9pY=",
+  "success": true,
+  "projectFilePath": "E:\\hp\\Revision\\.NET FRAMEWORK\\Beginner-Projects\\02 - Windows Form Calculator\\02 - Windows Form Calculator.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> db2d571d3c6bd69d202391cc4bfcec0b1e9bfd8b
 }
