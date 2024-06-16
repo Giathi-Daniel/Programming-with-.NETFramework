@@ -1,0 +1,15 @@
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\bin\Debug\net8.0\Methods.exe
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\bin\Debug\net8.0\Methods.deps.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\bin\Debug\net8.0\Methods.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\bin\Debug\net8.0\Methods.pdb
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\obj\Debug\net8.0\Methods.sourcelink.json
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\obj\Debug\net8.0\Methods.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\obj\Debug\net8.0\refint\Methods.dll
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\obj\Debug\net8.0\Methods.pdb
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+E:\hp\Revision\.NET FRAMEWORK\project-overview\Methods\Methods\obj\Debug\net8.0\ref\Methods.dll
